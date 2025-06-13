@@ -1,5 +1,5 @@
 # test rendering
-# document and style  using reusable workflow
+# document and style  using reusable workflow.
 on:
   workflow_dispatch:
   push:
